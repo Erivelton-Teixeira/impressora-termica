@@ -18,7 +18,6 @@ Tutorial para configração de uma impressora térmica de (cupom fiscal) usando 
 > | **MAC Address** | 00-31-81-2A-94-FD |
 > | **Data de geração do documento** | 30/07/2026 |
 > | **Versão do documento** | 1.1 |
-> | **Hash SHA-256 (conteúdo-base)** | `a612ab9be5b864f85c9bf3eec3fc40fe2f69f9ed0333abe61983fa5cba6fc741` |
 > | **Status** | ✅ Testado e validado (impressão física confirmada) |
 > ---
 
